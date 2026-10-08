@@ -1,10 +1,6 @@
-# Build artifacts and binaries
-FlyPars-latest.apk
-
-# Compressed archives
-FlyPars-source-clean.tar.gznode_modules/
+# Binary files
+*.apknode_modules/
 .next/
 dist/
 build/
 *.log
-node_modules/
