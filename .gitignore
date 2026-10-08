@@ -7,3 +7,4 @@ FlyPars-source-clean.tar.gznode_modules/
 dist/
 build/
 *.log
+node_modules/
