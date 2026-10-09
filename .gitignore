@@ -1,0 +1,5 @@
+# APK build artifacts
+*.apk
+
+# Compressed archives
+*.tar.gz
